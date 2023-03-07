@@ -1,0 +1,10 @@
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\bin\Debug\Five_Points_Chess.exe.config
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\bin\Debug\Five_Points_Chess.exe
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\bin\Debug\Five_Points_Chess.pdb
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\obj\Debug\Five_Points_Chess.csproj.AssemblyReference.cache
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\obj\Debug\Five_Points_Chess.Form1.resources
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\obj\Debug\Five_Points_Chess.Properties.Resources.resources
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\obj\Debug\Five_Points_Chess.csproj.GenerateResource.cache
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\obj\Debug\Five_Points_Chess.csproj.CoreCompileInputs.cache
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\obj\Debug\Five_Points_Chess.exe
+C:\Users\赵薇嘉\source\repos\Five_Points_Chess\Five_Points_Chess\obj\Debug\Five_Points_Chess.pdb
